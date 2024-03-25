@@ -1,4 +1,4 @@
- Hi I,am Sarthak Ekhande 👋
+  👋 Hi I,am Sarthak Ekhande
 
 <!--
 **SarthakEkhande/SarthakEkhande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
