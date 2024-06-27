@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ekhandesarthak" target="blank"><img src="https://img.shields.io/twitter/follow/ekhandesarthak?logo=twitter&style=for-the-badge" alt="ekhandesarthak" /></a> </p>
 
-- 🔭 I’m currently working on [Youtube Clone](https://you-tube-clone-phi-peach.vercel.app/)
+- 🔭 I’m currently working on [Amazon Clone](https://amazonclonebysarthak.vercel.app/)
 
 - 🌱 I’m currently learning **NextJS**
 
