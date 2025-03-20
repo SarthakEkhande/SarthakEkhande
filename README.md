@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Amazon Clone](https://amazonclonebysarthak.vercel.app/)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NODE JS**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sarthak-ekhande/](https://www.linkedin.com/in/sarthak-ekhande/)
+- 👨‍💻 All of my projects are available at [https://github.com/SarthakEkhande?tab=repositories](https://github.com/SarthakEkhande?tab=repositories)
 
 - 💬 Ask me about **React, Redux, Frontend Development**
 
